@@ -1,0 +1,7 @@
+Navigated though folders cd folder name
+creating new folde mkdir foldername
+create text file type nul>Filename.txt
+
+Git Practice
+- git init : enables version control 
+- gir status : shows details about status of Git version system 
