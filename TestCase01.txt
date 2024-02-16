@@ -9,3 +9,9 @@ Git Practice
 git branch -M main -> changes master to main 
 Local branch is named master
 
+Ater first sharing on the project steps are always same as:
+git add.
+git commit -m "message"
+git push 
+
+also can use git commit -a - m "message " to add and commit 
