@@ -5,3 +5,7 @@ create text file type nul>Filename.txt
 Git Practice
 - git init : enables version control 
 - gir status : shows details about status of Git version system 
+
+git branch -M main -> changes master to main 
+Local branch is named master
+
